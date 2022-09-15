@@ -189,3 +189,11 @@ button {
     flex-direction: column;
   }
 }
+@media only screen and (min-width: 701px){
+  .card{
+    width: 32%;
+    height: 200px;
+    display: grid;
+    gap: 10px;
+  }
+}
